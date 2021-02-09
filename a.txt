@@ -1,4 +1,5 @@
-xxx2
+masterブランチ
+書き直し
 
-lovelove
-zzzzzzz
+hoge2ブランチ
+文章を追加
